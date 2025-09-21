@@ -1,0 +1,6 @@
+site_name: My docs
+theme:
+  name: material
+
+nav:
+  - Главная: index.md
