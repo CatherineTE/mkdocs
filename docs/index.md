@@ -8,3 +8,6 @@
 def hello(name: str) -> str:
     return f"Привет, {name}!" 
 ```
+
+## Картинка для привлечения внимания!
+![Картинка](picture.png)
