@@ -4,3 +4,6 @@
 
 ## Немного полезной информации
 [Официальный сайт Python](https://www.python.org/)
+
+Для открытия ссылки в новой вкладке используй 
+<a href="https://www.python.org/" target="_blank">Официальный сайт Python</a>
