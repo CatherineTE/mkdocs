@@ -6,4 +6,5 @@
 ## Код на Python
 ```python
 def hello(name: str) -> str:
-    return f"Привет, {name}!"
+    return f"Привет, {name}!" 
+```
