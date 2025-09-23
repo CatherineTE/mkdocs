@@ -7,3 +7,6 @@
 
 Для открытия ссылки в новой вкладке используй 
 <a href="https://www.python.org/" target="_blank">Официальный сайт Python</a>
+
+
+[⟵ Назад](index.md)
